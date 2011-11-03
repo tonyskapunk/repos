@@ -1,0 +1,6 @@
+# PuppetLabs Repositories
+deb http://apt.puppetlabs.com/ubuntu natty main
+
+# To get the key the repo has used do
+# gpg --recv 1054B7A24BD6EC30
+# gpg --export --armor 1054B7A24BD6EC30 |apt-key add - 
